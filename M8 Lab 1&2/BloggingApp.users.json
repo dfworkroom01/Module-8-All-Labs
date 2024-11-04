@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "672641a42fc781bfac0ae1e2"
+  },
+  "username": "Bree Cayne",
+  "email": "bree@example.com",
+  "password": "hashed_password",
+  "createdAt": {
+    "$date": "2024-11-02T15:13:40.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-02T15:13:40.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "672641a42fc781bfac0ae1e3"
+  },
+  "username": "dean_88",
+  "email": "dean88@example.com",
+  "password": "hashed_password",
+  "createdAt": {
+    "$date": "2024-11-02T15:13:40.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-02T15:13:40.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "672641a42fc781bfac0ae1e4"
+  },
+  "username": "Wilma_wong",
+  "email": "wilma@example.com",
+  "password": "hashed_password",
+  "createdAt": {
+    "$date": "2024-11-02T15:13:40.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-02T15:13:40.990Z"
+  }
+}]

@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "672641a52fc781bfac0ae1e5"
+  },
+  "userId": {
+    "$oid": "672641a42fc781bfac0ae1e2"
+  },
+  "title": "Hi There",
+  "description": "I am new in this blog",
+  "imageUrl": "http://example.com/image1.jpg",
+  "createdAt": {
+    "$date": "2024-11-02T15:13:41.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-02T15:13:41.023Z"
+  },
+  "likes": [
+    {
+      "$oid": "672641a42fc781bfac0ae1e3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "672641a52fc781bfac0ae1e6"
+  },
+  "userId": {
+    "$oid": "672641a42fc781bfac0ae1e3"
+  },
+  "title": "What a Life",
+  "description": "I am new too",
+  "imageUrl": "http://example.com/image2.jpg",
+  "createdAt": {
+    "$date": "2024-11-02T15:13:41.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-02T15:13:41.023Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "672641a52fc781bfac0ae1e7"
+  },
+  "userId": {
+    "$oid": "672641a42fc781bfac0ae1e4"
+  },
+  "title": "Hobby?",
+  "description": "I am new too, anyone interested about cooking a retro dish?",
+  "imageUrl": "http://example.com/image3.jpg",
+  "createdAt": {
+    "$date": "2024-11-02T15:13:41.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-02T15:13:41.023Z"
+  }
+}]
